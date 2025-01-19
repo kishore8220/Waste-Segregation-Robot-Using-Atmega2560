@@ -1,6 +1,5 @@
 # Waste-Segregation Robot Using ATmega2560
 
-![Waste Segregation Robot](path-to-your-uploaded-image.jpg)
 
 This project implements a waste segregation robot using the ATmega2560 microcontroller. The robot utilizes a color sensor to detect the color of the waste and segregate it into appropriate categories.
 
@@ -114,7 +113,7 @@ void color_sensor_pin_config(void)
 
 ### 📷 Image of the Robot
 
-## ![Robot Setup](" Waste-Segregation-Robot-Using-Atmega2560\Robot.jpg ")
+## ![Robot Setup](Robot.jpg)
 
 ## 📃 License
 
